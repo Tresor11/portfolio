@@ -12,7 +12,6 @@ header h4 a {
 p {
   font-family: Camphor, Open Sans, Segoe UI, sans-serif;
   color: #5c6186;
-  font-size: 1.5rem;
 }
 
 .editor-h {
@@ -40,7 +39,7 @@ p {
 }
 
 .name .beep {
-  font-size: 8rem;
+  font-size: 4.5rem;
   height: 10px;
   background-color: #747fe0;
 }
@@ -109,6 +108,12 @@ a:hover {
 @media screen and (max-width: 768px) {
   .header {
     margin: auto;
+  }
+  .name h1 {
+    font-size: 2.5rem;
+  }
+  .name .beep {
+    font-size: 2.5rem;
   }
 }
 
