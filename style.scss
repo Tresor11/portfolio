@@ -1,3 +1,31 @@
 body {
-    color: blue($color: #000000);
+    color: blue($color: #942626);
+    overflow-x: hidden;
+    background-color: #e1d8ec;
+}
+
+.editor {
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.string {
+    color: rgb(199, 171, 13);
+}
+
+.link {
+    color: aqua;
+}
+
+a {
+    text-decoration: none;
+}
+
+@media screen and (max-width:768px) {
+    .header {
+        margin: auto;
+    }
 }
