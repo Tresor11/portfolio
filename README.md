@@ -2,7 +2,7 @@
 
 > This repo contains a facebook-like appliction built mainly with ruby in rails.
 
-![screenshot](./screencapture-tresor11-github-io-portfolio-1583446534410%20(1).png)
+![screenshot](./screencapture-127-0-0-1-5500-index-html-1583506993220.png)
 
 This is a simple portfolio that i built based justin chin's design using boostrap,css and sass
 
