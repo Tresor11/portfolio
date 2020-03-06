@@ -1,5 +1,4 @@
 body {
-    color: blue($color: #942626);
     overflow-x: hidden;
     background-color: #e1d8ec;
 }
@@ -15,6 +14,10 @@ header {
 
 p {
     font-family: Camphor, Open Sans, Segoe UI, sans-serif;
+}
+
+#project,
+#contact {
     color: #5c6186;
 }
 
