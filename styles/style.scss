@@ -7,13 +7,27 @@ header {
     h4 {
         a {
             font-family: Camphor, Open Sans, Segoe UI, sans-serif;
-            color: #6a70a1;
+            color: #747fe0;
+            font-weight: bolder;
         }
     }
 }
 
 p {
     font-family: Camphor, Open Sans, Segoe UI, sans-serif;
+}
+
+.intro{
+    font-family: Georgia, serif;
+font-size: 20px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: 400;
+text-decoration: none;
+font-style: normal;
+font-variant: small-caps;
+text-transform: none;
 }
 
 #project,
