@@ -1,6 +1,6 @@
 # Portfolio
 
-> This repo contains a facebook-like appliction built mainly with ruby in rails.
+> This repo contains the first version of my personal portfolio
 
 ![screenshot](./screencapture-127-0-0-1-5500-index-html-1583506993220.png)
 
